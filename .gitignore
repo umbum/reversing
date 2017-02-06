@@ -1,5 +1,2 @@
 *.ignore
-*.json
-.vscode
-*.vcxproj
 Debug
