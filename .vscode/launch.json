@@ -5,10 +5,10 @@
             "name": "C++ Launch (Windows)",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceRoot}/Debug/vsproject.exe",
+            "program": "${fileDirname}/Debug/vsproject.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceRoot}",
+            "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false
         },

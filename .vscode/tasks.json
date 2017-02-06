@@ -6,7 +6,7 @@
     "args": [
         // Ask msbuild to generate full paths for file names.
         //"/property:GenerateFullPaths=true"
-        "${workspaceRoot}/vsproject.vcxproj"
+        "${fileDirname}/vsproject.vcxproj"
         
     ],
     
